@@ -1,0 +1,7 @@
+RMSprop, lr=0.001
+
+Epoch 30/30
+100/100 - 152s - loss: 0.5108 - acc: 0.7470 - val_loss: 0.5001 - val_acc: 0.7750
+
+
+adam
